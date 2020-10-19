@@ -7,6 +7,6 @@ known_numbers = [34, 23, 65, 91]
 total = mean * 5
 
 for num in known_numbers:
-  total -= num
+  total - x = num
 
-print(total)
+print(x)
